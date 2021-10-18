@@ -3,8 +3,6 @@ from datetime import datetime
 import smtplib
 import time
 
-# MY_LAT = 51.507351 # Your latitude
-# MY_LONG = -0.127758 # Your longitude
 MY_LAT = # type latitude here
 MY_LONG = # type longitude here
 SMTP_SERVER_ADDRESS = 'type server address here'
